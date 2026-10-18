@@ -1,2 +1,5 @@
-# Python-Contact-Book
-A JSON-backed command-line contact book in Python.
+# Contact Book
+
+Save, search, and delete simple name-and-phone contacts in `contacts.json`.
+
+Run with `python main.py`.
